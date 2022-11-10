@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Laba8</string>
+    <string name="whatisDog">Какая порода у этой собаки?</string>
+    <string name="btn1">Мопс</string>
+    <string name="btn2">Французский бульдог</string>
+</resources>
